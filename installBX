@@ -1,0 +1,29 @@
+#!/bin/bash
+
+setterm -foreground cyan
+
+echo " installer de beef by Sxfi | ERROR404 "
+
+setterm -foreground white
+ 
+apt install ruby ruby-dev
+bundle install
+gem install sinatra
+pkg install ruby ruby-dev
+pkg install node.js
+bundle install
+pkg install sqlive
+pkg install sqlite
+gem install em-websocket
+gem install mime-types
+gem install mime-types'
+gem install term-ansicolor
+gem install espeak-ruby
+gem install maxmind-db
+gem install parseconfig
+gem install msfrpc-client
+gem install rushover
+gem install slack-notifier
+gem instal twitter
+gem install rubydns
+
